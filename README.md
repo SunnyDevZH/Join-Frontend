@@ -26,15 +26,17 @@ Es bietet eine moderne Benutzeroberfläche zur Verwaltung von Aufgaben, Kategori
 ## ⚙️ Installation 
 
 ### 1. Repository klonen:
-    ```bash
-    git clone https://github.com/SunnyDevZH/Join-Frontend.git
-    cd Join-Frontend
-    ```
+```bash
+git clone https://github.com/SunnyDevZH/Join-Frontend.git
+```
+```bash
+cd Join-Frontend
+```
     
-### 2. 
-    ```bash
-    Öffne die Datei `index.html` direkt im Browser.
-    ```
+### 2. Starten
+```bash
+Öffne die Datei `index.html` direkt im Browser.
+```
 ---
 
 Viel Spass beim Aufgaben-Management mit Join!
